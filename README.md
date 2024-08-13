@@ -1,2 +1,2 @@
 ## Hi there 👋
-<img src="https://github.com/BEPCTAK/BEPCTAK/blob/main/himmel014.gif" alt="the unlimited" width="400">
+![BEPCTAK GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
